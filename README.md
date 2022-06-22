@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Oluwasemilore Badejo
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:badejo.semilore.7@gmail.com
+- 🌱 I’m a Machine Learning Engineer
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
+- 📫 How to reach me:badejo.semilore.7@gmail.com or [Twitter](https://twitter.com/daredevil_blac)
 
 <!---
 oluwasemilorebadejo/oluwasemilorebadejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
