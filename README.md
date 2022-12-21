@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oluwasemilore Badejo
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m a Machine Learning Engineer
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m a Web Developer
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me:badejo.semilore.7@gmail.com or [Twitter](https://twitter.com/daredevil_blac)
 
