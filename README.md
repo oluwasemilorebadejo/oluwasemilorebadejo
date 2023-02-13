@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwasemilore Badejo
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m a Web Developer
-- 💞️ I’m actively searching for junior and intern roles in backend web development
+- 💞️ I’m actively searching for junior roles in backend web development
 - 📫 How to reach me:badejo.semilore.7@gmail.com or [Twitter](https://twitter.com/daredevil_blac)
 
 <!---
